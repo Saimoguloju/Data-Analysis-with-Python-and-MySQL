@@ -7,3 +7,18 @@
 # After loading the Excel data into the MySQL server, the data is successfully imported
 
 ![image alt](https://github.com/Saimoguloju/Data-Analysis-with-Python-and-MySQL/blob/master/Data%20Analysis%20with%20MySQL/Screenshot%201.png)
+
+I am Moguloju Sai, Data Science Engineer.
+
+You can contact me on:
+1. [Linkedin](https://www.linkedin.com/in/moguloju-sai-2b060b228)
+2. [X.com](https://twitter.com/MogulojuSai2)
+3. [You Tube](https://www.youtube.com/@Moguloju_Sai)
+4. [Medium](https://medium.com/@saimoguloju2)
+5. [Tableau](https://public.tableau.com/app/profile/moguloju.sai)
+
+#
+
+Other Social Media pages:
+1. [X.com](https://twitter.com/SmartMachines1?t=mZg1j9Z_V8WWzvlkl4027Q&s=09)
+2. [Whatsapp Channel](https://www.whatsapp.com/channel/0029Va9NAvs1SWstruaF3x41)
